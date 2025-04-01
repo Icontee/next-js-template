@@ -23,8 +23,7 @@ This is a Next.js project template with Tailwind CSS and TypeScript.
 1. Star this repository
 2. Fork this repository
 3. Create a new repository using this template
-4. Follow [@Tomilola_ng](https://twitter.com/tomilola_ng) on Twitter
-5. Follow [@Tomilola_ng](https://github.com/Tomilola-ng) on Github
+
 
 ## Getting Started
 
